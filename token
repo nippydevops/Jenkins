@@ -1,0 +1,1 @@
+curl -l -u jatin:Redhat@123456 http://35.231.124.213:8080/job/Newjob/build?token=secure
